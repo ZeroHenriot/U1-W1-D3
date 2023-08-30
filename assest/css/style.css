@@ -1,0 +1,22 @@
+p{
+    font-size: 14px;
+}
+
+h3{
+    color: palevioletred;
+}
+
+ol li{
+    font-style: italic;
+    color: darkcyan;
+}
+
+.last-h3{
+    color: darkgoldenrod;
+}
+
+#wolf{
+    font-style: italic;
+    color: darkmagenta;
+    margin-left: 20px;
+}
